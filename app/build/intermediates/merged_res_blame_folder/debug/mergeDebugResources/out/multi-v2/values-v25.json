@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.beginner_kotlin.app-mergeDebugResources-38:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KMG\\.gradle\\caches\\transforms-4\\24b711f2c4b2e58f636a9eae2bf8b17e\\transformed\\appcompat-1.6.1\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

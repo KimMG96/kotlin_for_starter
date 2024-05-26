@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">beginner_kotlin</string>
+    <string name="gcm_defaultSenderId" translatable="false">489486455477</string>
+    <string name="google_api_key" translatable="false">AIzaSyDgM6SxtXWehDCdKLvn8Wfi8YxgjsPQAmM</string>
+    <string name="google_app_id" translatable="false">1:489486455477:android:7ffada821c7f666be0e4fc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDgM6SxtXWehDCdKLvn8Wfi8YxgjsPQAmM</string>
+    <string name="google_storage_bucket" translatable="false">beginner-kotlin-daa0a.appspot.com</string>
+    <string name="project_id" translatable="false">beginner-kotlin-daa0a</string>
+    <style name="Base.Theme.Beginner_kotlin" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Beginner_kotlin" parent="Base.Theme.Beginner_kotlin"/>
+</resources>
